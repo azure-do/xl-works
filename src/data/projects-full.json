@@ -166,37 +166,6 @@
     "summary": "ホテル運営会社のコーポレートサイト。PHP CMS・Tailwind・GA4/GTM・Maps連携まで一貫対応。"
   },
   {
-    "id": "lp-4",
-    "title": "積水ハウス",
-    "url": "https://www.sekisuihouse.co.jp/kodate/hibikibi",
-    "industryId": "corporate",
-    "projectType": "住宅ブランド訴求LP",
-    "overview": "積水ハウス「イズ（IS）」ブランドの住宅プロモーションLP。北九州・学研都市ひびきの展示場向けに、ダインコンクリート外壁やフラット屋根などブランドの世界観を訴求。資料請求・来場予約・モデルハウス見学へのCVを目的としたプロモーションページを実装した。",
-    "highlights": [
-      "【課題】住宅ブランドの世界観と性能訴求を短期間で伝える必要があった",
-      "【実装】ビジュアル重視のブランドストーリー設計",
-      "【実装】回遊しやすいセクション構成とCTA配置",
-      "【工夫】高級感のあるビジュアル表現とモバイル最適化",
-      "【工夫】来場予約・資料請求への自然な導線設計"
-    ],
-    "results": [
-      "ブランド理解の促進",
-      "検討ユーザーのCV導線強化",
-      "展示場来場・問い合わせへの寄与"
-    ],
-    "imageUrl": "/images/lp-4.webp",
-    "developmentPeriod": "1週間",
-    "languages": [
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    "frameworks": [],
-    "role": "コーディング",
-    "teamSize": "一人開発",
-    "summary": "積水ハウス「ひびきBI」ブランドの住宅プロモーションLP。ブランド訴求と来場予約・資料請求導線を設計。"
-  },
-  {
     "id": "lp-5",
     "title": "ポッカサッポロ",
     "url": "https://www.pokkasapporo-fb.jp/lemon100/plyuki/",
@@ -435,6 +404,44 @@
     "role": "WordPress実装",
     "teamSize": "一人開発",
     "summary": "リラクゼーションサロン公式サイト。XDからWordPress実装、多言語対応、外部連携まで単独担当。"
+  },
+  {
+    "id": "cms-6",
+    "title": "MieScape",
+    "url": "https://miescape.jp/",
+    "industryId": "hospitality",
+    "projectType": "三重県観光情報サイト（WordPress）",
+    "overview": "三重県を中心とした観光情報・体験コンテンツを紹介するWebサイト「miescape.jp」。旧サイトの機能・導線を分析し、クライアント共有デザインを基に情報設計を策定。WordPressによるCMS構築、テーマ実装、観光情報・体験メニュー・アクセス・お問い合わせ各ページ、Polylangによる多言語化、サーバー・ドメイン設定から本番公開まで単独で一貫して担当した。",
+    "highlights": [
+      "【実装】旧サイトの機能・導線分析および情報設計・ページ構成策定",
+      "【実装】HTML/CSSコーディング、WordPressテーマ・CMS構築",
+      "【実装】観光情報一覧、体験メニュー、アクセス、お問い合わせ各ページ",
+      "【実装】Polylangによる多言語化対応",
+      "【実装】お問い合わせフォーム等の基本機能、レスポンシブUI最適化",
+      "【実装】サーバー設定・ドメイン管理・本番公開",
+      "【工夫】運用しやすく、ユーザーにとって見やすい観光情報サイトとして再構築"
+    ],
+    "results": [
+      "観光情報・体験コンテンツの見やすいWeb発信基盤の構築",
+      "WordPress CMSによる更新しやすい運用環境の整備",
+      "多言語対応による訪問者層の拡大",
+      "安定した公開・運用環境の確立"
+    ],
+    "imageUrl": "/images/miescape.png",
+    "developmentPeriod": "3ヶ月",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "WordPress",
+      "Polylang"
+    ],
+    "role": "WordPressサイト構築",
+    "teamSize": "一人開発",
+    "summary": "三重県の観光情報サイト。旧サイト分析からWordPress構築・多言語化・公開まで単独担当。"
   },
   {
     "id": "web-7",
