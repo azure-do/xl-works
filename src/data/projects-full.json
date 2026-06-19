@@ -121,6 +121,51 @@
     "summary": "丸亀給食センターのWordPressコーポレートサイト。CMS構築から問い合わせ導線・SEOまで一貫対応。"
   },
   {
+    "id": "cms-5",
+    "title": "CHI Hotels & Resorts",
+    "url": "https://chi-hotelsresorts.com/",
+    "industryId": "corporate",
+    "projectType": "ホテル運営会社のコーポレートサイト",
+    "overview": "ホテル運営会社「CHI Hotels & Resorts」のコーポレートサイト設計・開発。グループ企業情報、事業紹介、ホテルブランド紹介、ニュース・お知らせなどのコンテンツページを実装。PHPによるCMS機能および管理画面連携、Tailwind CSSによるレスポンシブ対応、Google Maps・GA4・GTM導入、カルーセル実装、Nginx環境へのデプロイまで、要件整理からリリースまで一貫して担当。運用担当者が容易に更新できる運用性と、ホテルブランドの信頼感を伝えるUI/UXを意識した。",
+    "highlights": [
+      "【実装】グループ企業情報・事業紹介・ホテルブランド・ニュース各ページ",
+      "【実装】PHPによるCMS機能および管理画面連携",
+      "【実装】Tailwind CSSによるPC・タブレット・スマートフォン対応",
+      "【実装】Google Maps連携、GA4・Google Tag Managerによるアクセス解析環境",
+      "【実装】Slick・OWL Carouselによるスライダー・カルーセル",
+      "【実装】SEOを考慮したサイト構造設計、表示速度最適化、Nginxデプロイ",
+      "【工夫】運用担当者が更新しやすいCMS構造と、ブランド信頼感を高めるUI/UX"
+    ],
+    "results": [
+      "ホテルグループの公式情報発信基盤の構築",
+      "管理画面連携による情報更新の効率化",
+      "アクセス解析環境の整備",
+      "レスポンシブ対応と表示速度を意識した公開環境の確立"
+    ],
+    "imageUrl": "/images/hotelsresorts.png",
+    "developmentPeriod": "3ヶ月",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "Tailwind CSS",
+      "jQuery",
+      "Nginx",
+      "Google Maps API",
+      "GA4",
+      "Google Tag Manager",
+      "Slick",
+      "OWL Carousel",
+      "Plesk"
+    ],
+    "role": "サイト構築",
+    "teamSize": "一人開発",
+    "summary": "ホテル運営会社のコーポレートサイト。PHP CMS・Tailwind・GA4/GTM・Maps連携まで一貫対応。"
+  },
+  {
     "id": "lp-4",
     "title": "積水ハウス",
     "url": "https://www.sekisuihouse.co.jp/kodate/hibikibi",
@@ -350,6 +395,46 @@
     "role": "CMS構築",
     "teamSize": "チーム開発",
     "summary": "秋田・男鹿半島の温泉旅館公式サイト。宿泊魅力の訴求と予約・問い合わせ導線を設計。"
+  },
+  {
+    "id": "cms-4",
+    "title": "N-SPA Relax",
+    "url": "https://n-spa-relax.com/",
+    "industryId": "hospitality",
+    "projectType": "リラクゼーションサロン公式サイト（WordPress / 多言語）",
+    "overview": "リラクゼーションサロン「N-SPA Relax」の公式Webサイト構築。支給されたXDデザインをもとにWordPress環境での実装および多言語対応、外部サービス連携を担当。運用を見据えたCMS構造設計と、表示速度・保守性を意識したテーマ開発を実施。PHPによるテンプレート設計、プラグイン選定・導入、サーバー反映まで単独で一貫して対応した。",
+    "highlights": [
+      "【実装】XDデザインを基にしたWordPressオリジナルテーマ開発",
+      "【実装】PHPテンプレート実装、Tailwind CSSによるスタイル設計",
+      "【実装】Transpressによる多言語化対応",
+      "【実装】Instagram埋め込み、Googleビジネスプロフィール（GBP）連携",
+      "【実装】さくらサーバー環境での構築・デプロイ",
+      "【実装】表示パフォーマンス最適化および動作検証",
+      "【工夫】運用を見据えたCMS構造と保守性の高いテーマ設計"
+    ],
+    "results": [
+      "XDデザインを忠実に再現したWordPressサイトの構築",
+      "多言語対応による訪問者層の拡大",
+      "外部サービス連携を含む運用可能なCMS基盤の確立",
+      "表示速度を意識した公開環境の整備"
+    ],
+    "imageUrl": "/images/nspa.png",
+    "developmentPeriod": "2ヶ月",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "WordPress",
+      "Tailwind CSS",
+      "Transpress",
+      "Adobe XD"
+    ],
+    "role": "WordPress実装",
+    "teamSize": "一人開発",
+    "summary": "リラクゼーションサロン公式サイト。XDからWordPress実装、多言語対応、外部連携まで単独担当。"
   },
   {
     "id": "web-7",
