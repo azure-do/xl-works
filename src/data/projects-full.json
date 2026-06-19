@@ -1,0 +1,642 @@
+[
+  {
+    "id": "lp-2",
+    "title": "新生電機株式会社",
+    "url": "https://www.shinseidenki.co.jp/",
+    "industryId": "corporate",
+    "projectType": "制御機器・産業用ロボット専門商社のコーポレートサイト",
+    "overview": "創業60年以上の制御機器・電子部品・産業用ロボット専門商社、新生電機株式会社のコーポレートサイトリニューアル。企業ブランディング強化、サービス訴求、採用広報、問い合わせ獲得を目的に、WordPressを基盤としたフルCMSサイトを構築。取扱メーカー500社以上、中国・四国・九州エリアの複数拠点を有するBtoB専門商社の特性に合わせ、サービス・ソリューション・取扱製品を体系的に整理した情報設計を実現した。",
+    "highlights": [
+      "【課題】更新性・拡張性に課題があり、ニュースやキャンペーン情報の内製更新が困難だった",
+      "【課題】サービス情報・拠点情報が散在し、BtoBユーザーにとっての導線整理が必要だった",
+      "【実装】WordPressによるフルCMS化、カスタム投稿タイプ・ACFによる動的コンテンツ管理",
+      "【実装】ニュース・キャンペーン・イベント、企業情報・サービス・拠点情報の管理画面更新対応",
+      "【実装】トップページのアニメーション演出、スライダー・カルーセル、お問い合わせフォーム",
+      "【実装】SEOを考慮した構造設計、表示速度最適化、レスポンシブ対応（SP・タブレット・PC）",
+      "【工夫】保守運用しやすい再利用可能コンポーネント設計のオリジナルテーマ開発",
+      "【工夫】BtoB企業向けの信頼感を重視したUI/UXと、ブランディング・営業支援を両立する情報設計"
+    ],
+    "results": [
+      "企業ブランドイメージの向上",
+      "ニュース・キャンペーン等の情報発信内製化",
+      "管理画面からの更新による運用業務の効率化",
+      "サービス情報の整理によるユーザビリティ向上",
+      "問い合わせ導線の最適化"
+    ],
+    "imageUrl": "/images/cms-1.png",
+    "developmentPeriod": "3ヶ月",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS / SCSS"
+    ],
+    "frameworks": [
+      "WordPress",
+      "Advanced Custom Fields",
+      "Contact Form 7"
+    ],
+    "role": "WordPressサイト構築",
+    "teamSize": "一人開発",
+    "summary": "制御機器・産業用ロボット専門商社のWordPressコーポレートサイト。500社以上の取扱メーカーと全国12拠点の情報を整理。"
+  },
+  {
+    "id": "cms-2",
+    "title": "arcペーパードライバースクール",
+    "url": "https://arc-pds.com/",
+    "industryId": "corporate",
+    "projectType": "ペーパードライバー向け運転講習サービスの公式サイト",
+    "overview": "愛知・岐阜・三重エリアを対象としたペーパードライバー向け運転講習サービス「arcペーパードライバースクール」の公式コーポレートサイト。サービス認知拡大、問い合わせ獲得、予約受付の効率化を目的に、WordPressオリジナルテーマによるフルCMSサイトを構築。地域SEO強化とスマートフォンユーザー最適化を両立し、受講検討者の不安解消から問い合わせ・予約までをスムーズにつなぐ導線設計を実現した。",
+    "highlights": [
+      "【課題】サービス内容が伝わりにくく、問い合わせ・予約への導線が最適化されていなかった",
+      "【課題】お知らせ・ブログ・FAQ・受講者の声など更新頻度の高いコンテンツの内製管理が困難だった",
+      "【課題】スマートフォンからのアクセスが多いユーザー層に対し、地域検索からの集客力強化が必要だった",
+      "【実装】WordPressオリジナルテーマ開発、カスタム投稿タイプ・ACFによるフルCMS構築",
+      "【実装】お知らせ・ブログ・FAQ・受講者の声・スタッフ紹介の管理画面更新機能",
+      "【実装】問い合わせフォーム、パンくずリスト、SEO内部対策、レスポンシブ対応",
+      "【工夫】初心者でも理解しやすい導線設計と、サービス利用までの流れの視覚的整理",
+      "【工夫】CTA配置・予約導線の最適化、安心感を与えるデザインと不安解消コンテンツの配置"
+    ],
+    "results": [
+      "運営者による情報更新の内製化",
+      "予約・問い合わせ導線の最適化",
+      "スマートフォンからの問い合わせ向上",
+      "サービス内容の可視化によるユーザー体験向上",
+      "地域SEO強化による集客力向上"
+    ],
+    "imageUrl": "/images/cms-2.png",
+    "developmentPeriod": "2ヶ月",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS / SCSS"
+    ],
+    "frameworks": [
+      "WordPress",
+      "Advanced Custom Fields",
+      "Contact Form 7"
+    ],
+    "role": "WordPress構築",
+    "teamSize": "一人開発",
+    "summary": "愛知・岐阜・三重のペーパードライバー向け運転講習サービス公式サイト。予約・問い合わせ導線をWordPressで最適化。"
+  },
+  {
+    "id": "cms-3",
+    "title": "丸亀給食センター",
+    "url": "https://marugamekyushoku.com/",
+    "industryId": "ec",
+    "projectType": "給食センターのコーポレートサイト（WordPress）",
+    "overview": "丸亀給食センターのWordPressコーポレートサイト新規構築・運用支援。会社情報、事業紹介、採用情報、お知らせなど各種コンテンツページを実装し、カスタム投稿タイプ・カスタムフィールドで管理画面から容易に更新できるCMS環境を整備。お問い合わせフォームとメール通知、SEOを意識したサイト構造、表示速度とユーザビリティを重視したレスポンシブフロントエンドを、要件調整から設計・実装・テスト・公開まで一貫して担当した。",
+    "highlights": [
+      "【実装】WordPressによるコーポレートサイト新規構築、会社情報・事業紹介・採用・お知らせ各ページ",
+      "【実装】カスタム投稿タイプ・カスタムフィールドによる管理画面更新機能",
+      "【実装】お問い合わせフォームおよびメール通知機能",
+      "【実装】SEOを考慮したコーディングとサイト構造設計",
+      "【実装】PC・タブレット・スマートフォン対応のレスポンシブデザイン",
+      "【工夫】表示速度とユーザビリティを意識したフロントエンド開発",
+      "【工夫】クライアントが継続運用しやすいCMS更新フローの設計"
+    ],
+    "results": [
+      "コーポレート情報の体系的な発信基盤の構築",
+      "管理画面からのコンテンツ更新内製化",
+      "お問い合わせ導線の整備",
+      "SEO・表示速度を意識した公開環境の確立"
+    ],
+    "imageUrl": "/images/marugamekyushoku.png",
+    "developmentPeriod": "2ヶ月",
+    "languages": [
+      "PHP",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "WordPress",
+      "jQuery",
+      "MySQL"
+    ],
+    "role": "WordPressサイト構築",
+    "teamSize": "一人開発",
+    "summary": "丸亀給食センターのWordPressコーポレートサイト。CMS構築から問い合わせ導線・SEOまで一貫対応。"
+  },
+  {
+    "id": "lp-4",
+    "title": "積水ハウス",
+    "url": "https://www.sekisuihouse.co.jp/kodate/hibikibi",
+    "industryId": "corporate",
+    "projectType": "住宅ブランド訴求LP",
+    "overview": "積水ハウス「イズ（IS）」ブランドの住宅プロモーションLP。北九州・学研都市ひびきの展示場向けに、ダインコンクリート外壁やフラット屋根などブランドの世界観を訴求。資料請求・来場予約・モデルハウス見学へのCVを目的としたプロモーションページを実装した。",
+    "highlights": [
+      "【課題】住宅ブランドの世界観と性能訴求を短期間で伝える必要があった",
+      "【実装】ビジュアル重視のブランドストーリー設計",
+      "【実装】回遊しやすいセクション構成とCTA配置",
+      "【工夫】高級感のあるビジュアル表現とモバイル最適化",
+      "【工夫】来場予約・資料請求への自然な導線設計"
+    ],
+    "results": [
+      "ブランド理解の促進",
+      "検討ユーザーのCV導線強化",
+      "展示場来場・問い合わせへの寄与"
+    ],
+    "imageUrl": "/images/lp-4.webp",
+    "developmentPeriod": "1週間",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "frameworks": [],
+    "role": "コーディング",
+    "teamSize": "一人開発",
+    "summary": "積水ハウス「ひびきBI」ブランドの住宅プロモーションLP。ブランド訴求と来場予約・資料請求導線を設計。"
+  },
+  {
+    "id": "lp-5",
+    "title": "ポッカサッポロ",
+    "url": "https://www.pokkasapporo-fb.jp/lemon100/plyuki/",
+    "industryId": "media",
+    "projectType": "食品キャンペーンLP",
+    "overview": "ポッカサッポロ「ポッカレモン100」の季節キャンペーンLP。レシート投稿によるポイント還元や「たべチャレ」レシピ投稿企画を訴求し、商品認知拡大と参加促進を目的としたプロモーションページ。期間限定施策に合わせた高訴求デザインと参加導線を実装した。",
+    "highlights": [
+      "【課題】短期キャンペーン期間中に認知と参加率を最大化する必要があった",
+      "【実装】キャンペーン概要・参加方法・対象商品の明確な訴求構成",
+      "【実装】季節感のあるビジュアルとブランドトーンを維持したデザイン",
+      "【工夫】参加ステップを視覚的に整理した導線設計",
+      "【工夫】モバイルからのレシート投稿を想定したUI設計"
+    ],
+    "results": [
+      "キャンペーン認知の拡大",
+      "参加導線の明確化によるエンゲージメント向上",
+      "ブランドトーンを維持した訴求力の確保"
+    ],
+    "imageUrl": "/images/lp-5.webp",
+    "developmentPeriod": "1週間",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "frameworks": [],
+    "role": "コーディング",
+    "teamSize": "一人開発",
+    "summary": "ポッカサッポロ「レモン100」の季節キャンペーンLP。商品認知拡大と参加促進を目的とした訴求ページ。"
+  },
+  {
+    "id": "lp-6",
+    "title": "Cuore Beauty",
+    "url": "https://cuore-beauty.co.jp/special/repaircure/",
+    "industryId": "corporate",
+    "projectType": "美容商材のプロモーションLP",
+    "overview": "クオレ株式会社「AXI リペアキュアシリーズ」のプロモーションLP。美容室専売のウェルエイジングスキンケアブランドの世界観と成分訴求を、GSAPアニメーションを活用して表現。大人の肌悩みに寄り添うブランドメッセージと商品理解を深める構成を実現した。",
+    "highlights": [
+      "【課題】成分の専門性とブランドの世界観を同時に伝える必要があった",
+      "【実装】GSAPによるスクロール連動アニメーション演出",
+      "【実装】商品ラインアップ・成分・こだわりのセクション構成",
+      "【工夫】ビジュアルとコピーの一体設計",
+      "【工夫】購買意欲を高めるストーリーテリング型LP構成"
+    ],
+    "results": [
+      "商品理解とブランド体験の両立",
+      "CV導線の改善",
+      "高級感のあるブランド訴求の実現"
+    ],
+    "imageUrl": "/images/lp-6.webp",
+    "developmentPeriod": "1週間",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "frameworks": [
+      "GSAP"
+    ],
+    "role": "コーディング",
+    "teamSize": "一人開発",
+    "summary": "美容商材「Repair Cure」のプロモーションLP。GSAP演出で商品魅力と購買意欲を高める構成。"
+  },
+  {
+    "id": "web-1",
+    "title": "原病院",
+    "url": "https://hara-hospital.jp/",
+    "industryId": "corporate",
+    "projectType": "病院の公式ホームページ",
+    "overview": "群馬県伊勢崎市の医療法人原会「原病院」の公式Webサイト。精神科・心療内科・内科・放射線科の診療案内、認知症疾患医療センター、関連施設情報を患者・ご家族向けに整理。安心感のある医療情報設計とWordPressによる更新性を両立した。",
+    "highlights": [
+      "【課題】診療科・施設情報が複雑で、患者が必要な情報へたどり着きにくかった",
+      "【実装】WordPressによるCMS構築、診療案内・受診導線の整理",
+      "【実装】認知症医療センター・関連施設の情報設計",
+      "【工夫】医療機関にふさわしい安心感のあるUI/UX",
+      "【工夫】問い合わせ・アクセス情報への明確な導線"
+    ],
+    "results": [
+      "患者向け情報へのアクセス性改善",
+      "問い合わせ負荷の軽減",
+      "運営者による情報更新の効率化"
+    ],
+    "imageUrl": "/images/web-1.webp",
+    "developmentPeriod": "1ヶ月",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "frameworks": [
+      "WordPress"
+    ],
+    "role": "CMS構築",
+    "teamSize": "チーム開発",
+    "summary": "群馬県伊勢崎市の精神科・心療内科「原病院」の公式サイト。診療案内と認知症医療センター情報を整理。"
+  },
+  {
+    "id": "web-2",
+    "title": "min-kura",
+    "url": "https://min-kura.com/",
+    "industryId": "media",
+    "projectType": "オウンドメディアサイト",
+    "overview": "不動産仲介メディア「みんなの暮らし方不動産」のWordPressサイト。従来の「駅近・築年数・間取り」ではなく「生き方・暮らし方」から理想の住まいを探せる独自コンセプトのWebメディア。物件紹介、ローカル情報、オーナーの想いを丁寧に伝える情報設計を実現した。",
+    "highlights": [
+      "【課題】従来型不動産サイトでは伝えきれない物件のソフトな価値の可視化が必要だった",
+      "【実装】WordPress CMS、記事・物件情報の管理機能",
+      "【実装】SEOを意識した情報構造と記事一覧導線",
+      "【工夫】暮らし方・生き方を軸にした独自の情報設計",
+      "【工夫】ビジュアル重視で「眺めていて楽しい」メディア体験"
+    ],
+    "results": [
+      "コンテンツマーケティング基盤の構築",
+      "物件の感情的価値の伝達力向上",
+      "継続運用に適した更新しやすい構成"
+    ],
+    "imageUrl": "/images/web-2.webp",
+    "developmentPeriod": "2週間",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "frameworks": [
+      "WordPress"
+    ],
+    "role": "CMS構築",
+    "teamSize": "チーム開発",
+    "summary": "「みんなの暮らし方不動産」の不動産仲介メディア。暮らし方・生き方から理想の住まいを探せるWordPressサイト。"
+  },
+  {
+    "id": "web-4",
+    "title": "Wellulu",
+    "url": "https://wellulu.com/",
+    "industryId": "hospitality",
+    "projectType": "ウェルネス系ライフスタイルメディア",
+    "overview": "ウェルビーイング総合メディア・プラットフォーム「Wellulu（ウェルル）」のWordPressサイト。博報堂開発のウェルビーイング21因子を活用した診断コンテンツと、運動・睡眠・食事・コミュニティに関する情報発信基盤。個人・企業・自治体のウェルビーイング共創を目指すメディアを構築した。",
+    "highlights": [
+      "【課題】多様なウェルビーイング情報を読みやすく整理し、継続的に発信する基盤が必要だった",
+      "【実装】WordPress CMS、記事・診断コンテンツの管理機能",
+      "【実装】モバイル中心のレスポンシブ設計",
+      "【工夫】情報量が多くても読みやすいレイアウト",
+      "【工夫】21因子診断と記事コンテンツの連携導線"
+    ],
+    "results": [
+      "コンテンツ閲覧体験の改善",
+      "再訪しやすいメディア基盤の構築",
+      "継続的な情報発信の内製化"
+    ],
+    "imageUrl": "/images/web-4.webp",
+    "developmentPeriod": "2週間",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "frameworks": [
+      "WordPress"
+    ],
+    "role": "CMS構築",
+    "teamSize": "チーム開発",
+    "summary": "ウェルビーイング総合メディア「Wellulu」。21因子診断と健康・暮らしに関する情報を発信。"
+  },
+  {
+    "id": "web-5",
+    "title": "男鹿温泉",
+    "url": "https://oga.yamado.co.jp/",
+    "industryId": "hospitality",
+    "projectType": "温泉旅館の公式サイト",
+    "overview": "秋田・男鹿半島「山人-oga-」リゾートホテルの公式サイト。鵜ノ崎海岸の崖上に位置する宿泊施設の魅力、源泉掛け流し温泉、レストランisana、客室・イベント情報を訴求。予約検討から問い合わせまでをスムーズにつなぐ観光・宿泊サイトをWordPressで構築した。",
+    "highlights": [
+      "【課題】宿泊・温泉・食事の魅力を統合的に伝え、予約導線につなげる必要があった",
+      "【実装】WordPress CMS、客室・温泉・レストラン・イベント情報の管理",
+      "【実装】写真を活かした高品質なビジュアル訴求",
+      "【工夫】「七千万年の歴史を育む男鹿」の世界観を表現したデザイン",
+      "【工夫】宿泊検討に必要な情報の体系的整理と予約導線"
+    ],
+    "results": [
+      "施設理解を深める情報設計",
+      "予約・問い合わせ導線の強化",
+      "運営者による季節情報・イベント更新の効率化"
+    ],
+    "imageUrl": "/images/web-5.webp",
+    "developmentPeriod": "1ヶ月",
+    "languages": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "PHP"
+    ],
+    "frameworks": [
+      "WordPress"
+    ],
+    "role": "CMS構築",
+    "teamSize": "チーム開発",
+    "summary": "秋田・男鹿半島の温泉旅館公式サイト。宿泊魅力の訴求と予約・問い合わせ導線を設計。"
+  },
+  {
+    "id": "web-7",
+    "title": "ラ・バッツァ",
+    "url": "https://labazza.jp/",
+    "industryId": "ec",
+    "projectType": "箱根・イタリアンレストラン公式サイト",
+    "overview": "箱根のイタリアンレストラン「ラ・バッツァ」の公式サイトをAstroによる静的サイト（SSG）として新規構築。店舗紹介、メニュー、アクセス情報などのコンテンツページを実装し、Tailwind CSSによるレスポンシブ対応、Radix UI / shadcn/uiを用いたUIコンポーネント設計、Google Maps連携、SEOを意識したサイト構造、Nginx環境へのデプロイまで、要件確認からリリースまで一貫して担当した。",
+    "highlights": [
+      "【実装】Astroによる静的サイト構築、店舗紹介・メニュー・アクセス各ページ",
+      "【実装】Tailwind CSSによるPC・タブレット・スマートフォン対応",
+      "【実装】Radix UI / shadcn/uiを活用したUIコンポーネント設計",
+      "【実装】Google Maps連携による店舗アクセス機能",
+      "【実装】SEOを考慮したサイト構造設計およびSSG最適化",
+      "【実装】Nginx環境へのデプロイおよび公開対応",
+      "【工夫】高速表示と運用しやすさを両立する静的サイト設計"
+    ],
+    "results": [
+      "レストラン公式情報の見やすいWeb発信基盤の構築",
+      "モバイルを含む全デバイスでの快適な閲覧体験",
+      "SEO・表示速度を意識した公開環境の確立",
+      "店舗アクセス情報の分かりやすい導線設計"
+    ],
+    "imageUrl": "/images/labazza.png",
+    "developmentPeriod": "1ヶ月",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frameworks": [
+      "Astro",
+      "Tailwind CSS",
+      "Radix UI",
+      "shadcn/ui",
+      "Google Maps",
+      "Nginx"
+    ],
+    "role": "サイト構築",
+    "teamSize": "一人開発",
+    "summary": "箱根・イタリアンレストラン「ラ・バッツァ」のAstro公式サイト。Tailwind・Google Maps・Nginxまで一貫対応。"
+  },
+  {
+    "id": "ec-1",
+    "title": "Phantom Rental",
+    "url": "",
+    "industryId": "ec",
+    "projectType": "ミニドレスレンタルECサイト（Shopify）",
+    "overview": "ミニドレスのレンタルECサイト構築プロジェクト。Shopifyをベースとしたオンラインストアの設計・開発を担当し、若年女性向けに最適化されたUI/UXを重視。商品閲覧から購入までの導線設計に加え、レンタル機能導入を前提とした拡張性の高いEC基盤を構築。要件定義から設計、デザイン、開発、リリースまで単独で一貫して担当し、デザイン性と実運用のしやすさを両立した。",
+    "highlights": [
+      "【実装】Shopifyストア全体の要件定義・設計・開発・リリース",
+      "【実装】モバイルファーストのUI/UX設計、トップ・下層ページのデザイン・実装",
+      "【実装】商品登録、コレクション設計、フィルタ構成の最適化",
+      "【実装】レンタル機能導入に向けたアプリ選定・設計（BookX等）",
+      "【実装】予約フロー（カレンダー選択・在庫管理）の設計",
+      "【実装】SEOを考慮した構造設計および基本最適化",
+      "【工夫】レンタル拡張と運用効率を見据えたEC基盤設計",
+      "【工夫】ビジネス要件と技術制約のバランスを取った改善提案"
+    ],
+    "results": [
+      "若年女性向けに最適化された購入導線の確立",
+      "レンタル機能拡張を見据えたShopify基盤の構築",
+      "デザイン性と運用しやすさの両立",
+      "商品閲覧から購入までのUX改善"
+    ],
+    "imageUrl": "/images/phantom-rental.png",
+    "developmentPeriod": "2ヶ月",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Liquid"
+    ],
+    "frameworks": [
+      "Shopify",
+      "BookX",
+      "Figma"
+    ],
+    "role": "フルスタック開発",
+    "teamSize": "一人開発",
+    "summary": "ShopifyベースのミニドレスレンタルEC。UI/UX設計からレンタル拡張を見据えたストア構築まで単独担当。"
+  },
+  {
+    "id": "service-3",
+    "title": "HuntersHub",
+    "url": "https://huntershub.net/",
+    "industryId": "community",
+    "projectType": "モンハン非公式パーティ募集プラットフォーム",
+    "overview": "モンスターハンターポータブルシリーズ（MHP/MHP2G/MHP3/MHXX）向けの非公式オンラインパーティ募集サービス「HuntersHub」。部屋作成・参加、リアルタイム更新、パスワード保護機能を備え、XLink Kai等と連携した仲間集めを支援。Next.js + Laravelで一人開発したフルスタックマッチングサービス。",
+    "highlights": [
+      "【課題】レトロゲームのオンラインプレイにおける仲間集めの情報共有が非効率だった",
+      "【実装】部屋作成・参加、リアルタイム更新、Google認証",
+      "【実装】Next.js + Laravel、チャット・通知・決済基盤",
+      "【工夫】ファンコミュニティ向けのシンプルな3ステップ導線",
+      "【工夫】プライベート部屋・パスワード保護による安心設計"
+    ],
+    "results": [
+      "パーティ募集の効率化",
+      "コミュニティ活性化",
+      "ユーザー獲得から継続利用までの導線構築"
+    ],
+    "imageUrl": "/images/service-3.webp",
+    "developmentPeriod": "1ヶ月",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "PHP"
+    ],
+    "frameworks": [
+      "Next.js",
+      "Laravel"
+    ],
+    "tech": [
+      "Next.js",
+      "Laravel",
+      "MySQL"
+    ],
+    "features": [
+      "ユーザーマッチング",
+      "チャット機能",
+      "決済機能",
+      "プッシュ通知"
+    ],
+    "role": "フルスタック開発",
+    "teamSize": "一人開発",
+    "architecture": {
+      "frontend": "Next.js",
+      "backend": "Laravel",
+      "database": "MySQL",
+      "infra": "Docker + Cloud"
+    },
+    "summary": "マッチングからチャット・決済まで一貫提供するコミュニティ型マッチングサービス。"
+  },
+  {
+    "id": "service-6",
+    "title": "Anucal",
+    "url": "https://app.anucal.com/",
+    "industryId": "business",
+    "projectType": "カレンダー・計画管理サービス",
+    "overview": "年間全体を一画面で俯瞰できるカレンダー・計画管理ツール「Anucal」。週・月単位ではなく年単位のタイムライン表示で、長期プロジェクトや目標設計を支援。Next.js + FastAPI構成で、ドラッグ＆ドロップ操作と共有機能を備えた計画管理SaaSを一人開発した。",
+    "highlights": [
+      "【課題】一般的なカレンダーでは長期計画の全体像が把握しにくかった",
+      "【実装】年間タイムライン表示、ドラッグ＆ドロップ操作",
+      "【実装】Next.js + FastAPI + PostgreSQL、共有・リマインダー機能",
+      "【工夫】「年間俯瞰」に特化したTime-First設計",
+      "【工夫】直感的なカレンダー操作UX"
+    ],
+    "results": [
+      "長期計画の可視化",
+      "予定管理の煩雑さ軽減",
+      "日常利用しやすいUXの実現"
+    ],
+    "imageUrl": "/images/service-6.webp",
+    "developmentPeriod": "2ヶ月",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "frameworks": [
+      "Next.js",
+      "FastAPI"
+    ],
+    "tech": [
+      "Next.js",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "features": [
+      "カレンダー管理",
+      "スケジュール計画",
+      "リマインダー機能",
+      "共有機能"
+    ],
+    "role": "フルスタック開発",
+    "teamSize": "一人開発",
+    "architecture": {
+      "frontend": "Next.js",
+      "backend": "FastAPI",
+      "database": "PostgreSQL",
+      "infra": "Docker + AWS"
+    },
+    "summary": "個人・チームのスケジュール設計を支えるカレンダー・計画管理ツール。"
+  },
+  {
+    "id": "service-8",
+    "title": "Ikinobi家計簿",
+    "url": "https://www.ikinobi-kakeibo.com/",
+    "industryId": "business",
+    "projectType": "家計管理サービス",
+    "overview": "支出分析・予算管理で家計改善をサポートする「生き延び家計簿」。収支記録、カテゴリ別分析、レポート生成機能を備え、利用者が家計の全体像を把握しやすいサービス。Next.js + Laravel構成で、バックエンド中心のデータ集計・レポート基盤を構築した。",
+    "highlights": [
+      "【課題】家計データの入力負担が大きく、継続利用が難しい状態だった",
+      "【実装】家計簿CRUD、支出分析・集計ロジック、レポート生成",
+      "【実装】Next.js + Laravel + MySQL、予算設定機能",
+      "【工夫】収支を把握しやすいレポート設計",
+      "【工夫】継続利用を促すシンプルな入力UX"
+    ],
+    "results": [
+      "収支把握のしやすさ向上",
+      "家計改善のためのデータ基盤提供",
+      "レポートによる支出可視化"
+    ],
+    "imageUrl": "/images/service-8.webp",
+    "developmentPeriod": "3ヶ月",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "PHP"
+    ],
+    "frameworks": [
+      "Next.js",
+      "Laravel"
+    ],
+    "tech": [
+      "Next.js",
+      "Laravel",
+      "MySQL"
+    ],
+    "features": [
+      "家計簿管理",
+      "支出分析",
+      "予算設定",
+      "レポート生成"
+    ],
+    "role": "バックエンド開発",
+    "teamSize": "チーム開発",
+    "architecture": {
+      "frontend": "Next.js",
+      "backend": "Laravel",
+      "database": "MySQL",
+      "infra": "Docker + Cloud"
+    },
+    "summary": "支出分析・予算管理で家計改善をサポートする家計簿管理サービス。"
+  },
+  {
+    "id": "service-9",
+    "title": "Suwaripocket",
+    "url": "https://suwaripocket.com/ja",
+    "industryId": "community",
+    "projectType": "投稿・情報検索サービス",
+    "overview": "国内最大級のベンチ・休憩場所検索サービス「スワリポケット」。街中のベンチ情報を地図上で検索・投稿・共有し、約5,000ヶ所以上の休憩スポットデータベースを構築。Next.js + FastAPI構成で、投稿・検索・タグ・お気に入り機能を備えたコミュニティプラットフォームを開発した。",
+    "highlights": [
+      "【課題】街中の休憩場所情報が分散し、ユーザーが必要な場所を見つけにくかった",
+      "【実装】地図検索、ベンチ投稿・コメント、タグ管理",
+      "【実装】Next.js + FastAPI + PostgreSQL、お気に入り・チェックイン機能",
+      "【工夫】スワリカードコレクション等のゲーミフィケーション",
+      "【工夫】スケーラブルな投稿データ管理基盤"
+    ],
+    "results": [
+      "休憩場所情報の蓄積と発見促進",
+      "コミュニティによる情報共有基盤の整備",
+      "国内最大級ベンチDBの成長支援"
+    ],
+    "imageUrl": "/images/service-9.webp",
+    "developmentPeriod": "3ヶ月",
+    "languages": [
+      "TypeScript",
+      "JavaScript",
+      "Python"
+    ],
+    "frameworks": [
+      "Next.js",
+      "FastAPI"
+    ],
+    "tech": [
+      "Next.js",
+      "FastAPI",
+      "PostgreSQL",
+      "AWS"
+    ],
+    "features": [
+      "投稿機能",
+      "情報検索",
+      "タグ管理",
+      "お気に入り機能"
+    ],
+    "role": "バックエンド開発",
+    "teamSize": "チーム開発",
+    "architecture": {
+      "frontend": "Next.js",
+      "backend": "FastAPI",
+      "database": "PostgreSQL",
+      "infra": "Docker + AWS"
+    },
+    "summary": "投稿と検索で情報収集・共有を両立するコミュニティプラットフォーム。"
+  }
+]
